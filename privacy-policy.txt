@@ -1,0 +1,202 @@
+# Privacy Policy
+
+**Last Updated: September 8, 2025**
+
+Jamkrafters ("Company," "we," or "us") is committed to protecting your privacy and complying with applicable data protection laws. This Privacy Policy explains how we collect, use, store, and share your personal information when you use our services.
+
+## 1. Information We Collect
+
+### 1.1 Personal Information We Collect
+We collect the following types of personal information:
+
+**Required Information**
+- User ID (userid)
+- Device ID (device_id)
+- Nickname
+- User tag
+
+**Optional Information**
+- Bio/Profile description
+- Status information
+- FCM token (for notification services)
+- Notification preferences (fcm_enable)
+- Language settings
+
+**Automatically Collected Information**
+- IP address
+- User agent information
+- Device fingerprint
+- Service usage logs
+- Session data
+
+### 1.2 How We Collect Information
+- Direct input during registration and service use
+- Through social login integration
+- Automatically generated during service usage
+- Through cookies and similar technologies
+
+## 2. How We Use Your Information
+
+We collect and use personal information for the following purposes:
+
+### 2.1 Service Provision
+- User identification and authentication
+- Providing chat and messaging services
+- Managing friend relationships
+- Supporting WebRTC-based P2P communication
+- Facilitating invite links and room access
+
+### 2.2 Service Improvement and Operations
+- Analyzing service usage statistics
+- Developing new features
+- Improving service quality
+- Maintaining system security
+
+### 2.3 Customer Support
+- Responding to customer inquiries
+- Providing service-related notifications
+- Sending push notifications
+
+### 2.4 Security and Fraud Prevention
+- Account security management
+- Preventing unauthorized access and spam
+- Detecting and preventing service abuse
+- Managing bans and restrictions
+
+## 3. Data Retention
+
+### 3.1 General Principle
+We retain personal information only as long as necessary to fulfill the purposes for which it was collected.
+
+### 3.2 Specific Retention Periods
+- **User accounts**: Until account deletion
+- **Session data**: Until session expiration
+- **Refresh tokens**: Until token expiration
+- **Invite links**: Until expiration date or completion of use
+- **TURN credentials**: Until configured TTL expires
+- **Chat room data**: Automatically deleted upon successful P2P connection
+- **Signaling messages**: Temporarily stored and deleted after P2P establishment
+- **ICE candidates**: Temporarily stored and deleted after P2P connection
+- **Log data**: 3 months
+
+### 3.3 Legal Requirements
+Information may be retained longer when required by applicable laws and regulations.
+
+## 4. Information Sharing and Disclosure
+
+### 4.1 General Principle
+We do not sell, trade, or otherwise transfer your personal information to third parties without your consent.
+
+### 4.2 Exceptions
+We may disclose your information in the following circumstances:
+- When required by law or legal process
+- To comply with government investigations
+- To protect our rights, property, or safety
+- To prevent fraud or security threats
+- With your explicit consent
+
+## 5. Third-Party Service Providers
+
+### 5.1 Current Service Providers
+We work with the following third-party service providers:
+
+**Cloud Infrastructure**
+- Provider: Cloudflare
+- Purpose: Data storage, server management, and content delivery
+- Data Processing: Server hosting, database management, and CDN services
+
+**Push Notification Services**
+- Provider: Firebase Cloud Messaging (Google)
+- Purpose: Delivering push notifications
+- Data Processed: FCM tokens, notification content
+
+**TURN/STUN Services**
+- Purpose: WebRTC connection assistance
+- Data Processed: Temporary connection credentials
+
+### 5.2 Service Provider Obligations
+We require all third-party service providers to maintain appropriate security measures and use personal information only for the purposes we specify.
+
+## 6. Data Security
+
+We implement appropriate technical, administrative, and physical security measures to protect your personal information:
+
+### 6.1 Technical Measures
+- Data encryption in transit and at rest
+- Access controls and authentication
+- Regular security assessments
+- Secure database configurations
+
+### 6.2 Administrative Measures
+- Limited access to personal information
+- Staff training on data protection
+- Regular policy updates
+- Incident response procedures
+
+### 6.3 Physical Measures
+- Secure data centers
+- Controlled physical access
+- Environmental protection systems
+
+## 7. Your Rights and Choices
+
+### 7.1 Your Rights
+Depending on your location, you may have the following rights:
+- Access to your personal information
+- Correction of inaccurate information
+- Deletion of your personal information
+- Restriction of processing
+- Data portability
+- Objection to processing
+
+### 7.2 How to Exercise Your Rights
+To exercise these rights, please contact our Privacy Officer using the contact information provided below. We will respond to your request within a reasonable timeframe.
+
+### 7.3 Account Management
+You can manage many aspects of your personal information directly through your account settings, including:
+- Updating your profile information
+- Managing notification preferences
+- Controlling privacy settings
+- Deleting your account
+
+## 8. International Data Transfers
+
+If you are located outside of our primary jurisdiction, your information may be transferred to and processed in countries where our servers are located. We ensure appropriate safeguards are in place for such transfers.
+
+## 9. Children's Privacy
+
+Our service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by:
+- Posting the updated policy on our website
+- Sending you an email notification
+- Providing in-app notifications
+
+Your continued use of our services after such modifications constitutes your acceptance of the updated Privacy Policy.
+
+## 11. Contact Information
+
+If you have any questions about this Privacy Policy or our privacy practices, please contact us:
+
+**Privacy Officer**
+- Company: Jamkrafters
+- Email: jamkrafters.center@gmail.com
+
+For data protection inquiries, you may also contact your local data protection authority if you believe we have not adequately addressed your concerns.
+
+## 12. Additional Information for Specific Regions
+
+### 12.1 California Residents (CCPA)
+California residents have additional rights under the California Consumer Privacy Act, including the right to know what personal information is collected and how it is used.
+
+### 12.2 European Union Residents (GDPR)
+EU residents have rights under the General Data Protection Regulation, including the right to withdraw consent and lodge complaints with supervisory authorities.
+
+### 12.3 Korean Residents
+Korean residents have rights under the Personal Information Protection Act, including specific notification and consent requirements.
+
+---
+
+This Privacy Policy is effective as of the date listed above and supersedes any prior versions.
